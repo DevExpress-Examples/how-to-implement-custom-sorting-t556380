@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/CustomSorting/MainPage.xaml) (VB: [MainPage.xaml](./VB/CustomSorting/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/CustomSorting/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/CustomSorting/MainPage.xaml))
+<!-- default file list end -->
 # How to: Implement Custom Sorting
 
 
